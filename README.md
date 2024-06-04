@@ -28,7 +28,7 @@ Solution: https://harajuku-hub-sprint-3.netlify.app/#/
 5.2.1. Display Product Information (60 / 65)
 - [x] Use the commercetools API to fetch and display the product name, description, and images on the Detailed Product page. RSS-ECOMM-3_09 (25 / 25)
 - [ ] Implement an image slider for product images fetched from the chosen API, allowing users to view multiple images of the product. RSS-ECOMM-3_10 (20 / 25)
-Нет возмозможности проверить требование "If a product has only a single image, the slider gracefully degrades to simply display that image without any unnecessary slider controls." т.к. все товары имеют более 1 изображения.
+Нет возможности проверить требование "If a product has only a single image, the slider gracefully degrades to simply display that image without any unnecessary slider controls." т.к. все товары имеют более 1 изображения.
 - [x] Display the product price fetched from the chosen API, and if the product is on sale, display both the original and discounted prices. RSS-ECOMM-3_11 (15 / 15)
   
 5.2.2. Enlarged Image Modal with Slider (35 / 35)
@@ -144,7 +144,7 @@ Solution: https://rsteam-games-store.netlify.app/
 5.2.1. Display Product Information (60 / 65)
 - [x] Use the commercetools API to fetch and display the product name, description, and images on the Detailed Product page. RSS-ECOMM-3_09 (25 / 25)
 - [] Implement an image slider for product images fetched from the chosen API, allowing users to view multiple images of the product. RSS-ECOMM-3_10 (20 / 25)
-  Нет возмозможности проверить требование "If a product has only a single image, the slider gracefully degrades to simply display that image without any unnecessary slider controls." т.к. все товары имеют более 1 изображения.
+  Нет возможности проверить требование "If a product has only a single image, the slider gracefully degrades to simply display that image without any unnecessary slider controls." т.к. все товары имеют более 1 изображения.
 - [x] Display the product price fetched from the chosen API, and if the product is on sale, display both the original and discounted prices. RSS-ECOMM-3_11 (15 / 15)
   
 5.2.2. Enlarged Image Modal with Slider (35 / 35)
@@ -203,7 +203,7 @@ Solution: https://rs-holy-grail.netlify.app
 5.2.1. Display Product Information (57 / 65)
 - [ ] Use the commercetools API to fetch and display the product name, description, and images on the Detailed Product page. RSS-ECOMM-3_09 (22 / 25) - баллы не снимала, но отсутствует описание товара.
 - [ ] Implement an image slider for product images fetched from the chosen API, allowing users to view multiple images of the product. RSS-ECOMM-3_10 (20 / 25)
-  Нет возмозможности проверить требование "If a product has only a single image, the slider gracefully degrades to simply display that image without any unnecessary slider controls." т.к. все товары имеют более 1 изображения.
+  Нет возможности проверить требование "If a product has only a single image, the slider gracefully degrades to simply display that image without any unnecessary slider controls." т.к. все товары имеют более 1 изображения.
 - [x] Display the product price fetched from the chosen API, and if the product is on sale, display both the original and discounted prices. RSS-ECOMM-3_11 (15 / 15)
   
 5.2.2. Enlarged Image Modal with Slider (35 / 35)
