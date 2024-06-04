@@ -2,7 +2,8 @@ Student Discord: @pdasya
 Solution: https://harajuku-hub-sprint-3.netlify.app/#/ 
 
 Есть небольшой баг при регистрации нового пользователя автоматически перенаправляет в ранее открытый аккаунт, вместо нового. Перед этим в ранее открытом аккаунте осуществлялись изменения данных пользователя.
-Total: 320/370
+
+### Total: 320/370
 
 ### 5.1. Catalog Page Implementation (130 / 150)
 
@@ -60,7 +61,8 @@ ________________________________________________________________________________
 Student Discord: @Nana88#3563  
 Solution: https://js-wisards.netlify.app/ 
 Ждем четверга)
-Total: 0/370
+
+### Total: 0/370
 
 ### 5.1. Catalog Page Implementation (0 / 150)
 
@@ -113,7 +115,8 @@ ________________________________________________________________________________
 
 Student Discord: @MarikRU#3649  
 Solution: https://rsteam-games-store.netlify.app/ 
-Total: 355/370
+
+### Total: 355/370
 
 ### 5.1. Catalog Page Implementation (140 / 150)
 
@@ -171,7 +174,8 @@ ________________________________________________________________________________
 Student Discord: @svorokhobina  
 Solution: https://rs-holy-grail.netlify.app
 Есть ощущение, что запутались с биллинг и шиппинг адресами
-Total: 347/370
+
+### Total: 347/370
 
 ### 5.1. Catalog Page Implementation (140 / 150)
 
